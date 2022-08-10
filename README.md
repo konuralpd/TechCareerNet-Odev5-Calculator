@@ -1,6 +1,5 @@
 # TechCareerNet-Odev5-Calculator
-A calculator app task that was given to us during Bootcamp with sum-only feature.
-
+A calculator app task that was given to us during Bootcamp with has sum-only feature.
 
 
 
